@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Hello, this is the message from Git bash..
-=======
-hey how are doing ..
->>>>>>> 4b32e2482cf68ea9408062a55f058903a97154c5
+
